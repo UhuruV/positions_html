@@ -68,6 +68,14 @@ h2{
     .two,.three,.four,.five{
         position:absolute;
     }
+    header{
+        width: 100%;
+    }
+    h2{
+        text-align: center;
+        padding-top: 15px;
+        font-size: 20px;
+    }
   }
 @media screen and (max-width: 800px) {
     .one {
@@ -77,6 +85,14 @@ h2{
     .two,.three,.four,.five{
         position:absolute;
     }
+    header{
+        width: 100%;
+    }
+    h2{
+        text-align: center;
+        padding-top: 15px;
+        font-size: 15px;
+    }
   }
   @media screen and (max-width: 1000px) {
     .one {
@@ -85,5 +101,13 @@ h2{
     }
     .two,.three,.four,.five{
         position:absolute;
+    }
+    header{
+        width: 100%;
+    }
+    h2{
+        text-align: center;
+        padding-top: 15px;
+        font-size: 30px;
     }
   }
